@@ -84,9 +84,9 @@
             <lifespan>35 years</lifespan>
             <Eggs>2 to 100 eggs</eggs>
             <diet>
-                <food1>lizards</food1>
-                <food2>birds</food2>
-                <food3>pigs</food3>
+                <food1>turtles</food1>
+                <food2>snakes</food2>
+                <food3>small mammals</food3>
             </diet>
             <size sex="male">
                 <length>3.4 meters</length>
