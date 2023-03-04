@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <reptiles>
-    <reptile group="turtles and tortoises">
+    <group_of_reptiles group="turtles and tortoises">
         <tortoise>
-            <name lang="en">African Spurred Tortoise</name>
+            <name>African Spurred Tortoise</name>
             <lifespan>80 to 100 years</lifespan>
-            <Eggs>15 to 30 eggs</eggs>
+            <eggs>15 to 30 eggs</eggs>
             <diet>
                 <food1>grasses</food1>
                 <food2>flowers</food2>
@@ -21,9 +21,9 @@
             </size>
         </tortoise>
         <turtle>
-            <name lang="en">Green Sea Turtle</name>
+            <name>Green Sea Turtle</name>
             <lifespan>70 to 90 years</lifespan>
-            <Eggs>110 eggs</eggs>
+            <eggs>110 eggs</eggs>
             <diet>
                 <food1>algae</food1>
                 <food2>seagrasses</food2>
@@ -34,12 +34,12 @@
                 <weight>150 to 507 pounds</weight>
             </size>
         </turtle>
-    </reptile>
-    <reptile group="lizards and snakes">
+    </group_of_reptiles>
+    <group_of_reptiles group="lizards and snakes">
         <lizard>
-            <name lang="en">Tokay Gecko</name>
+            <name>Tokay Gecko</name>
             <lifespan>10 to 15 years</lifespan>
-            <Eggs>2 eggs</eggs>
+            <eggs>2 eggs</eggs>
             <diet>
                 <food1>insects</food1>
                 <food2>small vertebrates</food2>
@@ -50,9 +50,9 @@
             </size>
         </lizard>
         <snake>
-            <name lang="en">Python</name>
+            <name>Python</name>
             <lifespan>35 years</lifespan>
-            <Eggs>2 to 100 eggs</eggs>
+            <eggs>2 to 100 eggs</eggs>
             <diet>
                 <food1>lizards</food1>
                 <food2>birds</food2>
@@ -63,12 +63,12 @@
                 <weight>250 pounds</weight>
             </size>
         </snake>
-    </reptile>
-    <reptile group="crocodiles and alligators">
+    </group_of_reptiles>
+    <group_of_reptiles group="crocodiles and alligators">
         <crocodile>
-            <name lang="en">Philippine Crocodile</name>
+            <name>Philippine Crocodile</name>
             <lifespan>70 to 80 years</lifespan>
-            <Eggs>7 to 30 eggs</eggs>
+            <eggs>7 to 30 eggs</eggs>
             <diet>
                 <food1>fish</food1>
                 <food2>small mammals</food2>
@@ -80,9 +80,9 @@
             </size>
         </crocodile>
         <alligator>
-            <name lang="en">American Alligator</name>
+            <name>American Alligator</name>
             <lifespan>35 years</lifespan>
-            <Eggs>2 to 100 eggs</eggs>
+            <eggs>2 to 100 eggs</eggs>
             <diet>
                 <food1>turtles</food1>
                 <food2>snakes</food2>
@@ -97,12 +97,12 @@
                 <weight>91 kg</weight>
             </size>
         </alligator>
-    </reptile>
-    <reptile group="tuatara">
+    </group_of_reptiles>
+    <group_of_reptiles group="tuatara">
         <tuatara>
-            <name lang="en">Northern Tuatara</name>
+            <name>Northern Tuatara</name>
             <lifespan>60 years</lifespan>
-            <Eggs>1 to 19 eggs</eggs>
+            <eggs>1 to 19 eggs</eggs>
             <diet>
                 <food1>insects</food1>
                 <food2>lizards</food2>
@@ -114,5 +114,5 @@
                 <weight>1.5 kg</weight> 
             </size>
         </tuatara>
-    </reptile>
-     
+    </group_of_reptiles>
+</reptiles>
