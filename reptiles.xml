@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<reptiles>
+    <reptile group="turtles and tortoises">
+        <tortoise>
+            <name lang="en">African Spurred Tortoise</name>
+            <lifespan>80 to 100 years</lifespan>
+            <Eggs>15 to 30 eggs</eggs>
+            <diet>
+                <food1>grasses</food1>
+                <food2>flowers</food2>
+                <food3>cacti</food3>
+            </diet>
+            <size sex="male">
+                <length>30 inches</length>
+                <weight>200 pounds</weight>
+            </size>
+            <size sex="female">
+                <length>20 inches</length>
+                <weight>90 pounds</weight>
+            </size>
+        </tortoise>
+        <turtle>
+            <name lang="en">Green sea turtle</name>
+            <lifespan>70 to 90 years</lifespan>
+            <Eggs>110 eggs</eggs>
+            <diet>
+                <food1>algae</food1>
+                <food2>seagrasses</food2>
+                <food3>discarded fish</food3>
+            </diet>
+            <size>
+                <length>31 to 47 inches</length>
+                <weight>150 to 507 pounds</weight>
+            </size>
+        </turtle>
+    </reptile>
+    <reptile group="lizards and snakes">
+        <lizard>
+            <name lang="en">Tokay Gecko</name>
+            <lifespan>10 to 15 years</lifespan>
+            <Eggs>2 eggs</eggs>
+            <diet>
+                <food1>insects</food1>
+                <food2>small vertebrates</food2>
+            </diet>
+            <size>
+                <length>11 to 15 inches</length>
+                <weight>250 to 350 grams</weight> 
+            </size>
+        </lizard>
+        <snake>
+            <name lang="en">Python</name>
+            <lifespan>35 years</lifespan>
+            <Eggs>2 to 100 eggs</eggs>
+            <diet>
+                <food1>lizards</food1>
+                <food2>birds</food2>
+                <food3>pigs</food3>
+            </diet>
+            <size>
+                <length>33 feet</length>
+                <weight>250 pounds</weight>
+            </size>
+        </snake>
+    </reptile>
+    <reptile group="crocodiles and alligators">
+    </reptile>
+     
