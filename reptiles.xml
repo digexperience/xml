@@ -21,7 +21,7 @@
             </size>
         </tortoise>
         <turtle>
-            <name lang="en">Green sea turtle</name>
+            <name lang="en">Green Sea Turtle</name>
             <lifespan>70 to 90 years</lifespan>
             <Eggs>110 eggs</eggs>
             <diet>
@@ -65,5 +65,37 @@
         </snake>
     </reptile>
     <reptile group="crocodiles and alligators">
+        <crocodile>
+            <name lang="en">Philippine Crocodile</name>
+            <lifespan>70 to 80 years</lifespan>
+            <Eggs>7 to 30 eggs</eggs>
+            <diet>
+                <food1>fish</food1>
+                <food2>small mammals</food2>
+                <food3>aquatic vertebrates</food3>
+            </diet>
+            <size>
+                <length>2.44 to 3 meters</length>
+                <weight>91 kg</weight> 
+            </size>
+        </crocodile>
+        <alligator>
+            <name lang="en">American Alligator</name>
+            <lifespan>35 years</lifespan>
+            <Eggs>2 to 100 eggs</eggs>
+            <diet>
+                <food1>lizards</food1>
+                <food2>birds</food2>
+                <food3>pigs</food3>
+            </diet>
+            <size sex="male">
+                <length>3.4 meters</length>
+                <weight>230 kg</weight>
+            </size>
+            <size sex="female">
+                <length>2.6 meters</length>
+                <weight>91 kg</weight>
+            </size>
+        </alligator>
     </reptile>
      
