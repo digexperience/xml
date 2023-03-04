@@ -98,4 +98,21 @@
             </size>
         </alligator>
     </reptile>
+    <reptile group="tuatara">
+        <tuatara>
+            <name lang="en">Northern Tuatara</name>
+            <lifespan>60 years</lifespan>
+            <Eggs>1 to 19 eggs</eggs>
+            <diet>
+                <food1>insects</food1>
+                <food2>lizards</food2>
+                <food3>birds</food3>
+                <food4>bird eggs</food4>
+            </diet>
+            <size>
+                <length>0.5 meters</length>
+                <weight>1.5 kg</weight> 
+            </size>
+        </tuatara>
+    </reptile>
      
